@@ -30,6 +30,9 @@ Ejemplo rápido:
 # Luego copia el texto y guárdalo aquí
 ```
 === HITO 1: KERNEL VULNERABLE CONFIRMADO ===
+
+![image alt](https://github.com/Slucina04060708/copy-fail-challenge-1/blob/d2afcf40686e18b8b5d90dc40c724590b749f757/Screenshot%202026-05-16%20234435.png)
+
 Fecha: Fri May 15 17:53:47 UTC 2026
 Hostname: copy-fail-Santiago-Lucina
 Kernel: 6.12.0
@@ -38,3 +41,6 @@ Módulos AF_ALG:
 (no encontrado con lsmod)
 algif_aead en /proc/modules:
 (no encontrado)
+
+=== HITO 2: SALIDA DEL EXPLOIT CON 'UID=0(ROOT)' ===
+![image alt](https://github.com/Slucina04060708/copy-fail-challenge-1/blob/d2afcf40686e18b8b5d90dc40c724590b749f757/Screenshot%202026-05-16%20234435.png)
