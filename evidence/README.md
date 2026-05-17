@@ -42,6 +42,7 @@ Módulos AF_ALG:
 algif_aead en /proc/modules:
 (no encontrado)
 
+
 === HITO 2: SALIDA DEL EXPLOIT CON 'UID=0(ROOT)' ===
 
 ![image alt](https://github.com/Slucina04060708/copy-fail-challenge-1/blob/57650f3f6d7a4336db7deaab70e3225f78658b53/Screenshot%202026-05-16%20235319.png)
@@ -137,3 +138,7 @@ algif_aead en /proc/modules:
 (Líneas 25-27): Documenta la creación de la regla persistente de bloqueo en /etc/modprobe.d/ para anular la carga del módulo vulnerable y el uso de rmmod para desalojarlo de la memoria activa.
 
 (Líneas 28-33): El historial cierra con múltiples intentos de ejecución del exploit (python3 copy_fail_exp.py) tanto en modo usuario como en modo superusuario (su -) para verificar que la protección implementada es efectiva e impide la creación del socket vulnerable. 
+
+Evidencia resolución copyfail en VM de Debian 13 (Trixie)
+
+19b6174 (Resolución Examen en VM Debian 13)
