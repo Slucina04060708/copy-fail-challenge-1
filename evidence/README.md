@@ -46,6 +46,10 @@ algif_aead en /proc/modules:
 
 ![image alt](https://github.com/Slucina04060708/copy-fail-challenge-1/blob/57650f3f6d7a4336db7deaab70e3225f78658b53/Screenshot%202026-05-16%20235319.png)
 
-=== HITO 3: MÓDULO REMOVIDO, EXPLOIT FALLANDO ===
+=== HITO 3: EXPLOIT FALLANDO EN KERNEL PARCHEADO ===
 
 ![image alt](https://github.com/Slucina04060708/copy-fail-challenge-1/blob/cf52f26311c25f7130c7bdd44a7a9cae0d6a9c0b/Screenshot%202026-05-17%20005935.png)
+
+=== HITO 4: MÓDULO REMOVIDO, EXPLOIT FALLANDO ===
+
+![image alt](https://github.com/Slucina04060708/copy-fail-challenge-1/blob/4bcf6b1183828b0fd42b431486a0648d6ded00af/Screenshot%202026-05-17%20004104.png)
