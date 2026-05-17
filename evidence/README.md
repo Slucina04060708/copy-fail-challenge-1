@@ -43,4 +43,4 @@ algif_aead en /proc/modules:
 (no encontrado)
 
 === HITO 2: SALIDA DEL EXPLOIT CON 'UID=0(ROOT)' ===
-![image alt](https://github.com/Slucina04060708/copy-fail-challenge-1/blob/d2afcf40686e18b8b5d90dc40c724590b749f757/Screenshot%202026-05-16%20234435.png)
+![image alt](https://github.com/Slucina04060708/copy-fail-challenge-1/blob/57650f3f6d7a4336db7deaab70e3225f78658b53/Screenshot%202026-05-16%20235319.png)
