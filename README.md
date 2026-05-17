@@ -78,6 +78,10 @@ copy-fail-challenge/
 - ❌ El hostname de tu VM debe ser único (viene de `git config user.name`)
 - ⏱ Todos los commits deben tener timestamp dentro de la ventana del examen
 
+## Resolución Examen 
+
+Para revisar la resolución del examen, toda la evidencia sobre el preoceso para arreglar el copyfail se encuentra dentro del README de evidencias
+
 ---
 
 *Basado en CVE-2026-31431 descubierto por Theori / Xint Code. Divulgado el 29 de abril de 2026.*
